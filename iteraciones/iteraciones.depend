@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521550182 source:c:\test\miranda\iteraciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
