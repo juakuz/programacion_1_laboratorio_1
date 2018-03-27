@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521471144 source:c:\test\miranda\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

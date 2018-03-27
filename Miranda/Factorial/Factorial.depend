@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522158392 source:c:\test\miranda\factorial\main.c
+	"conio.h"
+	<stdio.h>
+	<dos.h>
+
